@@ -1,0 +1,2 @@
+# Test page with image
+
